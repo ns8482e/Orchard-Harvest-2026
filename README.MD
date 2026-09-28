@@ -11,3 +11,5 @@
 - A real Azure architecture illustrates shared and dedicated multi-tenant deployment patterns. — slide 16, “The Infrastructure We Built”
 
 ### Deck
+
+[Orchard Core For Enterprise Systems](./OrchardCoreEnterpriseSystems_C_SureveloxSignal_v3.pdf)
